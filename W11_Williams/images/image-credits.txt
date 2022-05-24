@@ -1,0 +1,9 @@
+rest1.jpg: https://www.wbez.org/stories/chicago-area-restaurants-can-now-offer-limited-indoor-dining-but-some-stick-to-takeout/35b485bd-bc76-433a-8f3e-5e55a8f599ef
+
+rest2.jpg: https://www.aforkstale.com/portillos-hot-dogs-in-chicago-illinois/
+
+rest3.jpg: https://chicago.eater.com/2020/10/28/21534633/gibsons-steakhouse-top-grossing-independent-restaurant-chicago-foxfire-geneva-lawsuit-pritzker
+
+rest4.jpg: https://www.tripdolist.com/best-brunch-places-in-chicago/
+
+rest5.jpg: https://www.businessyab.com/explore/united_states/illinois/cook_county/chicago/lincoln_square/north_damen_avenue/4709/ravenswood-station-bar-grill-773-878-9400.html
